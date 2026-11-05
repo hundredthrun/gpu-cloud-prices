@@ -1,0 +1,17 @@
+slug,name,params_b,architecture,source_url,date_checked,note
+llama-3-1-8b,Llama 3.1 8B,8.0,dense,https://huggingface.co/meta-llama/Llama-3.1-8B,2026-11-04,
+llama-3-1-70b,Llama 3.1 70B,70.6,dense,https://huggingface.co/meta-llama/Llama-3.1-70B,2026-11-04,
+llama-3-3-70b,Llama 3.3 70B,70.6,dense,https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct,2026-11-04,
+llama-3-1-405b,Llama 3.1 405B,405.9,dense,https://huggingface.co/meta-llama/Llama-3.1-405B,2026-11-04,
+llama-4-scout,Llama 4 Scout,108.6,moe,https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E,2026-11-04,"Mixture of experts: all experts must sit in memory, so the memory estimate uses total parameters, not the 17B active ones."
+mistral-7b,Mistral 7B,7.2,dense,https://huggingface.co/mistralai/Mistral-7B-v0.3,2026-11-04,
+mixtral-8x7b,Mixtral 8x7B,46.7,moe,https://huggingface.co/mistralai/Mixtral-8x7B-v0.1,2026-11-04,"Mixture of experts: all experts must sit in memory, so the memory estimate uses total parameters."
+qwen2-5-7b,Qwen2.5 7B,7.6,dense,https://huggingface.co/Qwen/Qwen2.5-7B,2026-11-04,
+qwen2-5-32b,Qwen2.5 32B,32.8,dense,https://huggingface.co/Qwen/Qwen2.5-32B,2026-11-04,
+qwen2-5-72b,Qwen2.5 72B,72.7,dense,https://huggingface.co/Qwen/Qwen2.5-72B,2026-11-04,
+qwen3-32b,Qwen3 32B,32.8,dense,https://huggingface.co/Qwen/Qwen3-32B,2026-11-04,
+qwen3-30b-a3b,Qwen3 30B-A3B,30.5,moe,https://huggingface.co/Qwen/Qwen3-30B-A3B,2026-11-04,"Mixture of experts: all experts must sit in memory, so the memory estimate uses total parameters, not the 3B active ones."
+gemma-2-27b,Gemma 2 27B,27.2,dense,https://huggingface.co/google/gemma-2-27b,2026-11-04,
+deepseek-v3,DeepSeek V3,684.5,moe,https://huggingface.co/deepseek-ai/DeepSeek-V3,2026-11-04,"The published weights are already FP8 (about 1 byte per parameter), so the FP16 row is hypothetical. Mixture of experts: all experts must sit in memory."
+gpt-oss-120b,gpt-oss-120b,116.8,moe,https://huggingface.co/openai/gpt-oss-120b,2026-11-04,"The published weights are already about 4-bit (MXFP4), so the FP16 row is hypothetical. Mixture of experts: all experts must sit in memory."
+gpt-oss-20b,gpt-oss-20b,20.9,moe,https://huggingface.co/openai/gpt-oss-20b,2026-11-04,"The published weights are already about 4-bit (MXFP4), so the FP16 row is hypothetical. Mixture of experts: all experts must sit in memory."

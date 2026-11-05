@@ -1,0 +1,75 @@
+{
+ "date": "2026-11-04",
+ "gpus": {
+  "H100": {
+   "min": 1.68,
+   "median": 3.99,
+   "max": 12.29,
+   "n": 28,
+   "providers": 17
+  },
+  "H200": {
+   "min": 3.49,
+   "median": 5.345,
+   "max": 10.0,
+   "n": 12,
+   "providers": 12
+  },
+  "B200": {
+   "min": 5.4325,
+   "median": 7.99,
+   "max": 14.2416,
+   "n": 13,
+   "providers": 10
+  },
+  "A100": {
+   "min": 1.09,
+   "median": 1.99,
+   "max": 4.0963,
+   "n": 25,
+   "providers": 12
+  },
+  "L40S": {
+   "min": 0.97,
+   "median": 1.695,
+   "max": 3.7664,
+   "n": 12,
+   "providers": 10
+  },
+  "B300": {
+   "min": 7.4,
+   "median": 9.245,
+   "max": 17.802,
+   "n": 8,
+   "providers": 8
+  },
+  "GB200": {
+   "min": 10.5,
+   "median": 16.0,
+   "max": 27.04,
+   "n": 3,
+   "providers": 3
+  },
+  "GB300": {
+   "min": 13.31,
+   "median": 15.655,
+   "max": 18.0,
+   "n": 2,
+   "providers": 2
+  },
+  "MI300X": {
+   "min": 3.45,
+   "median": 4.725,
+   "max": 6.0,
+   "n": 2,
+   "providers": 2
+  },
+  "MI355X": {
+   "min": 8.6,
+   "median": 8.6,
+   "max": 8.6,
+   "n": 1,
+   "providers": 1
+  }
+ }
+}

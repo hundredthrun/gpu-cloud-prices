@@ -21,126 +21,126 @@
    "confidence",
    "notes"
   ],
-  "generated": "2026-11-04T09:51:26-08:00",
+  "generated": "2026-11-05T09:54:15-08:00",
   "rows": 211,
   "provider_status": {
    "Lambda": {
     "status": "OK",
     "rows": 21,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://lambda.ai/pricing"
    },
    "CoreWeave": {
     "status": "OK",
     "rows": 8,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.coreweave.com/pricing"
    },
    "RunPod": {
     "status": "OK",
     "rows": 9,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.runpod.io/pricing"
    },
    "Nebius": {
     "status": "OK",
     "rows": 14,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.nebius.com/prices"
    },
    "Crusoe": {
     "status": "OK",
     "rows": 11,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.crusoe.ai/cloud/pricing"
    },
    "Hyperstack": {
     "status": "OK",
     "rows": 19,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.hyperstack.cloud/gpu-pricing"
    },
    "Together AI": {
     "status": "OK",
     "rows": 18,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.together.ai/pricing"
    },
    "DigitalOcean": {
     "status": "OK",
     "rows": 7,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.digitalocean.com/pricing/gpu-droplets"
    },
    "Verda": {
     "status": "OK",
     "rows": 16,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://verda.com/pricing"
    },
    "Modal": {
     "status": "OK",
     "rows": 7,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://modal.com/pricing"
    },
    "Thunder Compute": {
     "status": "OK",
     "rows": 2,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://thundercompute.com/pricing"
    },
    "Voltage Park": {
     "status": "OK",
     "rows": 2,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.voltagepark.com/pricing"
    },
    "Massed Compute": {
     "status": "OK",
     "rows": 7,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.massedcompute.com/pricing/"
    },
    "Civo": {
     "status": "OK",
     "rows": 27,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://www.civo.com/pricing"
    },
    "FlexiCloud (broker)": {
     "status": "OK",
     "rows": 4,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://flexicloud.co/"
    },
    "Microsoft Azure": {
     "status": "OK",
     "rows": 9,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://prices.azure.com/api/retail/prices"
    },
    "Oracle Cloud (OCI)": {
     "status": "OK",
     "rows": 10,
     "rejected_out_of_range": 0,
-    "checked": "2026-11-04",
+    "checked": "2026-11-05",
     "url": "https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD"
    },
    "Amazon Web Services": {
@@ -195,7 +195,7 @@
    "availability_note": "Page: self-serve, up within 15 mins, no minimum terms",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.voltagepark.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "low",
    "notes": "Only a FAQ sentence gives a price ('starting at'). The pricing cards say Contact for pricing."
@@ -215,7 +215,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -235,7 +235,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -255,7 +255,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.massedcompute.com/pricing/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Page does not state region or availability. Prices are for the instance shown."
@@ -275,7 +275,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -295,7 +295,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -315,7 +315,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.massedcompute.com/pricing/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Page does not state region or availability. Prices are for the instance shown."
@@ -335,7 +335,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -355,7 +355,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -375,7 +375,7 @@
    "availability_note": "Page: persistent GPU machines, ready to SSH into in minutes",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://thundercompute.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -385,17 +385,17 @@
    "gpu": "H100",
    "variant": "PCIe 80GB",
    "gpus_per_unit": "1",
-   "price_usd_per_gpu_hr": "3.29",
+   "price_usd_per_gpu_hr": "3.79",
    "price_type": "on_demand",
    "term": "none",
    "region": "not stated",
    "billing_unit": "per GPU-hour",
-   "price_as_listed": "$3.29 per GPU-hr (1x instance)",
+   "price_as_listed": "$3.79 per GPU-hr (1x instance)",
    "derivation": "",
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -415,30 +415,10 @@
    "availability_note": "Page: contact sales to lock in guaranteed resources at lowest rates",
    "lead_time_class": "unknown",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Price column read by position (the page lists models and prices in separate blocks). Verify before relying on it."
-  },
-  {
-   "provider": "Lambda",
-   "gpu": "H100",
-   "variant": "HGX 80GB",
-   "gpus_per_unit": "8",
-   "price_usd_per_gpu_hr": "3.99",
-   "price_type": "on_demand",
-   "term": "none",
-   "region": "not stated",
-   "billing_unit": "per GPU-hour",
-   "price_as_listed": "$3.99 per GPU-hr (8x instance)",
-   "derivation": "",
-   "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
-   "lead_time_class": "instant_self_serve",
-   "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
-   "fetch_method": "html_static",
-   "confidence": "high",
-   "notes": ""
   },
   {
    "provider": "RunPod",
@@ -455,7 +435,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -475,70 +455,10 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "GPU Clusters product. Page also shows a separate Dedicated Endpoints table with different prices."
-  },
-  {
-   "provider": "Lambda",
-   "gpu": "H100",
-   "variant": "SXM 80GB",
-   "gpus_per_unit": "4",
-   "price_usd_per_gpu_hr": "4.09",
-   "price_type": "on_demand",
-   "term": "none",
-   "region": "not stated",
-   "billing_unit": "per GPU-hour",
-   "price_as_listed": "$4.09 per GPU-hr (4x instance)",
-   "derivation": "",
-   "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
-   "lead_time_class": "instant_self_serve",
-   "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
-   "fetch_method": "html_static",
-   "confidence": "high",
-   "notes": ""
-  },
-  {
-   "provider": "Lambda",
-   "gpu": "H100",
-   "variant": "SXM 80GB",
-   "gpus_per_unit": "2",
-   "price_usd_per_gpu_hr": "4.19",
-   "price_type": "on_demand",
-   "term": "none",
-   "region": "not stated",
-   "billing_unit": "per GPU-hour",
-   "price_as_listed": "$4.19 per GPU-hr (2x instance)",
-   "derivation": "",
-   "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
-   "lead_time_class": "instant_self_serve",
-   "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
-   "fetch_method": "html_static",
-   "confidence": "high",
-   "notes": ""
-  },
-  {
-   "provider": "Lambda",
-   "gpu": "H100",
-   "variant": "SXM 80GB",
-   "gpus_per_unit": "1",
-   "price_usd_per_gpu_hr": "4.29",
-   "price_type": "on_demand",
-   "term": "none",
-   "region": "not stated",
-   "billing_unit": "per GPU-hour",
-   "price_as_listed": "$4.29 per GPU-hr (1x instance)",
-   "derivation": "",
-   "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
-   "lead_time_class": "instant_self_serve",
-   "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
-   "fetch_method": "html_static",
-   "confidence": "high",
-   "notes": ""
   },
   {
    "provider": "DigitalOcean",
@@ -555,7 +475,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -575,7 +495,67 @@
    "availability_note": "Reserved and committed: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
+   "fetch_method": "html_static",
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "provider": "Lambda",
+   "gpu": "H100",
+   "variant": "HGX 80GB",
+   "gpus_per_unit": "8",
+   "price_usd_per_gpu_hr": "4.59",
+   "price_type": "on_demand",
+   "term": "none",
+   "region": "not stated",
+   "billing_unit": "per GPU-hour",
+   "price_as_listed": "$4.59 per GPU-hr (8x instance)",
+   "derivation": "",
+   "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
+   "lead_time_class": "instant_self_serve",
+   "source_url": "https://lambda.ai/pricing",
+   "date_checked": "2026-11-05",
+   "fetch_method": "html_static",
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "provider": "Lambda",
+   "gpu": "H100",
+   "variant": "SXM 80GB",
+   "gpus_per_unit": "4",
+   "price_usd_per_gpu_hr": "4.69",
+   "price_type": "on_demand",
+   "term": "none",
+   "region": "not stated",
+   "billing_unit": "per GPU-hour",
+   "price_as_listed": "$4.69 per GPU-hr (4x instance)",
+   "derivation": "",
+   "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
+   "lead_time_class": "instant_self_serve",
+   "source_url": "https://lambda.ai/pricing",
+   "date_checked": "2026-11-05",
+   "fetch_method": "html_static",
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "provider": "Lambda",
+   "gpu": "H100",
+   "variant": "SXM 80GB",
+   "gpus_per_unit": "2",
+   "price_usd_per_gpu_hr": "4.79",
+   "price_type": "on_demand",
+   "term": "none",
+   "region": "not stated",
+   "billing_unit": "per GPU-hour",
+   "price_as_listed": "$4.79 per GPU-hr (2x instance)",
+   "derivation": "",
+   "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
+   "lead_time_class": "instant_self_serve",
+   "source_url": "https://lambda.ai/pricing",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -595,7 +575,27 @@
    "availability_note": "Reserved: from 1 month, custom quote (talk to sales)",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
+   "fetch_method": "html_static",
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "provider": "Lambda",
+   "gpu": "H100",
+   "variant": "SXM 80GB",
+   "gpus_per_unit": "1",
+   "price_usd_per_gpu_hr": "4.89",
+   "price_type": "on_demand",
+   "term": "none",
+   "region": "not stated",
+   "billing_unit": "per GPU-hour",
+   "price_as_listed": "$4.89 per GPU-hr (1x instance)",
+   "derivation": "",
+   "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
+   "lead_time_class": "instant_self_serve",
+   "source_url": "https://lambda.ai/pricing",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -615,7 +615,7 @@
    "availability_note": "Reserved and committed capacity: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.coreweave.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -675,7 +675,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Retail list price, US dollars, Linux, pay as you go."
@@ -695,7 +695,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: Oracle Cloud Infrastructure - Compute - GPU - H100. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -715,7 +715,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Retail list price, US dollars, Linux, pay as you go."
@@ -735,7 +735,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://modal.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Serverless billing, not a rented instance. Only pay while running."
@@ -755,7 +755,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Reserved price is 'starting from'. Term length is not shown."
@@ -775,7 +775,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Reserved price is 'starting from'. Term length is not shown."
@@ -795,7 +795,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -815,7 +815,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -835,7 +835,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -855,7 +855,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Reserved price is 'starting from'. Term length is not shown."
@@ -875,7 +875,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -895,7 +895,7 @@
    "availability_note": "Page: available now; lead time per region is quoted in writing within about one working day; B300 allocation is the tightest",
    "lead_time_class": "contact_sales",
    "source_url": "https://flexicloud.co/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Broker quote floor, not an on-demand price. Minimum one 8-GPU node, one-year minimum. Actual rate depends on region, term and node count."
@@ -915,7 +915,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -935,7 +935,7 @@
    "availability_note": "Page: new pricing effective August 1, 2026. Reserved: contact sales.",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -955,7 +955,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -975,7 +975,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -995,7 +995,7 @@
    "availability_note": "1-Click Cluster: talk to sales",
    "lead_time_class": "contact_sales",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Cluster price includes the cluster network. Count is the minimum cluster size for that price."
@@ -1015,7 +1015,7 @@
    "availability_note": "1-Click Cluster: talk to sales",
    "lead_time_class": "contact_sales",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Cluster price includes the cluster network. Count is the minimum cluster size for that price."
@@ -1035,7 +1035,7 @@
    "availability_note": "1-Click Cluster: talk to sales",
    "lead_time_class": "contact_sales",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Cluster price includes the cluster network. Count is the minimum cluster size for that price."
@@ -1055,7 +1055,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Dynamic spot-like price, 'from' is the lowest seen at fetch time."
@@ -1075,7 +1075,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Retail list price, US dollars, Linux, pay as you go."
@@ -1095,7 +1095,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1115,7 +1115,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": ""
@@ -1135,7 +1135,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Retail list price, US dollars, Linux, pay as you go."
@@ -1155,7 +1155,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1195,7 +1195,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1215,7 +1215,7 @@
    "availability_note": "Page: Long-Term Reserve, 6+ month contracts, 32 to 8000+ H100 GPUs",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.voltagepark.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1335,7 +1335,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -1355,7 +1355,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.massedcompute.com/pricing/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Page does not state region or availability. Prices are for the instance shown."
@@ -1375,7 +1375,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1395,7 +1395,7 @@
    "availability_note": "Page: contact sales to lock in guaranteed resources at lowest rates",
    "lead_time_class": "unknown",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Price column read by position (the page lists models and prices in separate blocks). Verify before relying on it."
@@ -1415,7 +1415,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1435,7 +1435,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -1455,7 +1455,7 @@
    "availability_note": "Reserved and committed: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1475,7 +1475,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "GPU Clusters product. Page also shows a separate Dedicated Endpoints table with different prices."
@@ -1495,7 +1495,7 @@
    "availability_note": "Reserved and committed capacity: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.coreweave.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1515,7 +1515,7 @@
    "availability_note": "Reserved: from 1 month, custom quote (talk to sales)",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1555,7 +1555,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: OCI - Compute - GPU - H200. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -1575,7 +1575,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://modal.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Serverless billing, not a rented instance. Only pay while running."
@@ -1595,7 +1595,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Reserved price is 'starting from'. Term length is not shown."
@@ -1615,7 +1615,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -1635,7 +1635,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -1655,7 +1655,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -1675,7 +1675,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -1695,7 +1695,7 @@
    "availability_note": "Page: available now; lead time per region is quoted in writing within about one working day; B300 allocation is the tightest",
    "lead_time_class": "contact_sales",
    "source_url": "https://flexicloud.co/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Broker quote floor, not an on-demand price. Minimum one 8-GPU node, one-year minimum. Actual rate depends on region, term and node count."
@@ -1715,7 +1715,7 @@
    "availability_note": "Page: new pricing effective August 1, 2026. Reserved: contact sales.",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1735,7 +1735,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1755,7 +1755,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1775,7 +1775,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1795,7 +1795,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Dynamic spot-like price, 'from' is the lowest seen at fetch time."
@@ -1815,7 +1815,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1835,7 +1835,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1855,7 +1855,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1895,7 +1895,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.massedcompute.com/pricing/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Page does not state region or availability. Prices are for the instance shown."
@@ -1915,7 +1915,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1925,17 +1925,17 @@
    "gpu": "B200",
    "variant": "HGX 180GB",
    "gpus_per_unit": "8",
-   "price_usd_per_gpu_hr": "6.69",
+   "price_usd_per_gpu_hr": "7.69",
    "price_type": "on_demand",
    "term": "none",
    "region": "not stated",
    "billing_unit": "per GPU-hour",
-   "price_as_listed": "$6.69 per GPU-hr (8x instance)",
+   "price_as_listed": "$7.69 per GPU-hr (8x instance)",
    "derivation": "",
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1945,17 +1945,17 @@
    "gpu": "B200",
    "variant": "SXM6 180GB",
    "gpus_per_unit": "4",
-   "price_usd_per_gpu_hr": "6.79",
+   "price_usd_per_gpu_hr": "7.79",
    "price_type": "on_demand",
    "term": "none",
    "region": "not stated",
    "billing_unit": "per GPU-hour",
-   "price_as_listed": "$6.79 per GPU-hr (4x instance)",
+   "price_as_listed": "$7.79 per GPU-hr (4x instance)",
    "derivation": "",
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1965,17 +1965,17 @@
    "gpu": "B200",
    "variant": "SXM6 180GB",
    "gpus_per_unit": "2",
-   "price_usd_per_gpu_hr": "6.89",
+   "price_usd_per_gpu_hr": "7.89",
    "price_type": "on_demand",
    "term": "none",
    "region": "not stated",
    "billing_unit": "per GPU-hour",
-   "price_as_listed": "$6.89 per GPU-hr (2x instance)",
+   "price_as_listed": "$7.89 per GPU-hr (2x instance)",
    "derivation": "",
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -1985,17 +1985,17 @@
    "gpu": "B200",
    "variant": "SXM6 180GB",
    "gpus_per_unit": "1",
-   "price_usd_per_gpu_hr": "6.99",
+   "price_usd_per_gpu_hr": "7.99",
    "price_type": "on_demand",
    "term": "none",
    "region": "not stated",
    "billing_unit": "per GPU-hour",
-   "price_as_listed": "$6.99 per GPU-hr (1x instance)",
+   "price_as_listed": "$7.99 per GPU-hr (1x instance)",
    "derivation": "",
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2015,7 +2015,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -2035,7 +2035,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "GPU Clusters product. Page also shows a separate Dedicated Endpoints table with different prices."
@@ -2055,7 +2055,7 @@
    "availability_note": "Reserved and committed: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2075,7 +2075,7 @@
    "availability_note": "Reserved and committed capacity: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.coreweave.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2095,7 +2095,7 @@
    "availability_note": "Reserved: from 1 month, custom quote (talk to sales)",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2115,7 +2115,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: OCI - Compute - GPU - B200. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -2155,7 +2155,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://modal.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Serverless billing, not a rented instance. Only pay while running."
@@ -2175,7 +2175,7 @@
    "availability_note": "Page: available now; lead time per region is quoted in writing within about one working day; B300 allocation is the tightest",
    "lead_time_class": "contact_sales",
    "source_url": "https://flexicloud.co/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Broker quote floor, not an on-demand price. Minimum one 8-GPU node, one-year minimum. Actual rate depends on region, term and node count."
@@ -2195,7 +2195,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -2215,7 +2215,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -2235,7 +2235,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -2255,7 +2255,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Reserved price is 'starting from'. Term length is not shown."
@@ -2275,7 +2275,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2295,7 +2295,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2315,7 +2315,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2335,7 +2335,7 @@
    "availability_note": "1-Click Cluster: talk to sales",
    "lead_time_class": "contact_sales",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Cluster price includes the cluster network. Count is the minimum cluster size for that price."
@@ -2355,7 +2355,7 @@
    "availability_note": "1-Click Cluster: talk to sales",
    "lead_time_class": "contact_sales",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Cluster price includes the cluster network. Count is the minimum cluster size for that price."
@@ -2375,7 +2375,7 @@
    "availability_note": "1-Click Cluster: talk to sales",
    "lead_time_class": "contact_sales",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Cluster price includes the cluster network. Count is the minimum cluster size for that price."
@@ -2395,7 +2395,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Dynamic spot-like price, 'from' is the lowest seen at fetch time."
@@ -2415,7 +2415,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2435,7 +2435,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2455,7 +2455,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2475,7 +2475,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.together.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2555,7 +2555,7 @@
    "availability_note": "Page header: B300 on-demand in August, reserved private clusters in Q4 (banner text, may be out of date)",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2575,7 +2575,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -2595,7 +2595,7 @@
    "availability_note": "Page: contact sales to lock in guaranteed resources at lowest rates",
    "lead_time_class": "unknown",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Price column read by position (the page lists models and prices in separate blocks). Verify before relying on it."
@@ -2615,7 +2615,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -2635,7 +2635,7 @@
    "availability_note": "Reserved and committed: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2655,7 +2655,7 @@
    "availability_note": "Reserved: from 1 month, custom quote (talk to sales)",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2675,7 +2675,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: Oracle Cloud Infrastructure - Compute - GPU - B300. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -2715,7 +2715,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://modal.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Serverless billing, not a rented instance. Only pay while running."
@@ -2735,7 +2735,7 @@
    "availability_note": "Page: available now; lead time per region is quoted in writing within about one working day; B300 allocation is the tightest",
    "lead_time_class": "contact_sales",
    "source_url": "https://flexicloud.co/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Broker quote floor, not an on-demand price. Minimum one 8-GPU node, one-year minimum. Actual rate depends on region, term and node count."
@@ -2755,7 +2755,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -2775,7 +2775,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -2795,7 +2795,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -2815,7 +2815,7 @@
    "availability_note": "Page: new pricing effective August 1, 2026. Reserved: contact sales.",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2835,7 +2835,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Dynamic spot-like price, 'from' is the lowest seen at fetch time."
@@ -2855,7 +2855,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2875,7 +2875,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2895,7 +2895,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.coreweave.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2915,7 +2915,7 @@
    "availability_note": "Reserved and committed capacity: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.coreweave.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2935,7 +2935,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: OCI - Compute - GPU - GB200. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -2955,7 +2955,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "medium",
    "notes": "GPU count per VM is from Azure VM size docs (ND GB200-v6 has 4 GPUs), not from the price API. Retail list price, US dollars, Linux, pay as you go."
@@ -2975,7 +2975,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -2995,7 +2995,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3015,7 +3015,7 @@
    "availability_note": "Reserved: from 1 month, custom quote (talk to sales)",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3035,7 +3035,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: OCI - Compute - GPU - GB300. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -3055,7 +3055,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3075,7 +3075,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.coreweave.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3095,7 +3095,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3115,7 +3115,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3135,7 +3135,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -3155,7 +3155,7 @@
    "availability_note": "Page: persistent GPU machines, ready to SSH into in minutes",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://thundercompute.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3175,7 +3175,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3195,7 +3195,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.massedcompute.com/pricing/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Page does not state region or availability. Prices are for the instance shown."
@@ -3215,7 +3215,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.massedcompute.com/pricing/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Page does not state region or availability. Prices are for the instance shown."
@@ -3235,7 +3235,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3255,7 +3255,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3275,7 +3275,7 @@
    "availability_note": "Reserved: from 1 month, custom quote (talk to sales)",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3295,7 +3295,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -3315,7 +3315,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -3335,7 +3335,7 @@
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3355,7 +3355,7 @@
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3375,7 +3375,7 @@
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3395,7 +3395,7 @@
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3415,7 +3415,7 @@
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3435,7 +3435,7 @@
    "availability_note": "Page: contact sales to lock in guaranteed resources at lowest rates",
    "lead_time_class": "unknown",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Price column read by position (the page lists models and prices in separate blocks). Verify before relying on it."
@@ -3455,7 +3455,7 @@
    "availability_note": "Reserved: from 1 month, custom quote (talk to sales)",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3475,7 +3475,7 @@
    "availability_note": "Page: contact sales to lock in guaranteed resources at lowest rates",
    "lead_time_class": "unknown",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Price column read by position (the page lists models and prices in separate blocks). Verify before relying on it."
@@ -3495,7 +3495,7 @@
    "availability_note": "Reserved and committed capacity: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.coreweave.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3525,17 +3525,17 @@
    "gpu": "A100",
    "variant": "HGX 80GB",
    "gpus_per_unit": "8",
-   "price_usd_per_gpu_hr": "2.79",
+   "price_usd_per_gpu_hr": "3.19",
    "price_type": "on_demand",
    "term": "none",
    "region": "not stated",
    "billing_unit": "per GPU-hour",
-   "price_as_listed": "$2.79 per GPU-hr (8x instance)",
+   "price_as_listed": "$3.19 per GPU-hr (8x instance)",
    "derivation": "",
    "availability_note": "Instances: page says deploy in minutes, self-serve, first-come access. Reserved and clusters: contact sales.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://lambda.ai/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3555,7 +3555,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Retail list price, US dollars, Linux, pay as you go."
@@ -3595,7 +3595,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: Compute - GPU - A100 - v2. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -3615,7 +3615,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Retail list price, US dollars, Linux, pay as you go."
@@ -3635,7 +3635,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://modal.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Serverless billing, not a rented instance. Only pay while running."
@@ -3655,7 +3655,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://modal.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Serverless billing, not a rented instance. Only pay while running."
@@ -3675,7 +3675,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -3695,7 +3695,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -3715,7 +3715,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -3735,7 +3735,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Reserved price is 'starting from'. Term length is not shown."
@@ -3755,7 +3755,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Reserved price is 'starting from'. Term length is not shown."
@@ -3775,7 +3775,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -3795,7 +3795,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Reserved price is 'starting from'. Term length is not shown."
@@ -3815,7 +3815,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Retail list price, US dollars, Linux, pay as you go."
@@ -3835,7 +3835,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3855,7 +3855,7 @@
    "availability_note": "Quota and capacity approval apply; not shown by the price API",
    "lead_time_class": "unknown",
    "source_url": "https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Retail list price, US dollars, Linux, pay as you go."
@@ -3875,7 +3875,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": ""
@@ -3895,7 +3895,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -3915,7 +3915,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.massedcompute.com/pricing/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Page does not state region or availability. Prices are for the instance shown."
@@ -3935,7 +3935,7 @@
    "availability_note": "Pods page lists Community Cloud and Secure Cloud tabs. The static page text does not say which tier the shown price is.",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.runpod.io/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Cloud tier of the displayed price is not stated in the page text. Reserved: contact enterprise sales."
@@ -3955,7 +3955,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -3975,7 +3975,7 @@
    "availability_note": "Page: contact sales to lock in guaranteed resources at lowest rates",
    "lead_time_class": "unknown",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Price column read by position (the page lists models and prices in separate blocks). Verify before relying on it."
@@ -3995,7 +3995,7 @@
    "availability_note": "Reserved and committed: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "'from' means the lowest configuration shown."
@@ -4015,7 +4015,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -4035,7 +4035,7 @@
    "availability_note": "Reserved and committed: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "'from' means the lowest configuration shown."
@@ -4075,7 +4075,7 @@
    "availability_note": "Reserved: from 1 month, custom quote (talk to sales)",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -4095,7 +4095,7 @@
    "availability_note": "Reserved and committed capacity: contact sales",
    "lead_time_class": "unknown",
    "source_url": "https://www.coreweave.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -4115,7 +4115,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: Compute - GPU - L40S. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -4155,7 +4155,7 @@
    "availability_note": "",
    "lead_time_class": "instant_self_serve",
    "source_url": "https://modal.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Serverless billing, not a rented instance. Only pay while running."
@@ -4175,7 +4175,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -4195,7 +4195,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -4215,7 +4215,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -4235,7 +4235,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.civo.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": "Small and Extra Large sizes only are read. N/A cells are skipped."
@@ -4255,7 +4255,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Dynamic spot-like price, 'from' is the lowest seen at fetch time."
@@ -4275,7 +4275,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.nebius.com/prices",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Dynamic spot-like price, 'from' is the lowest seen at fetch time."
@@ -4295,7 +4295,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://verda.com/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""
@@ -4315,7 +4315,7 @@
    "availability_note": "Page: contact sales to lock in guaranteed resources at lowest rates",
    "lead_time_class": "unknown",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "medium",
    "notes": "Price column read by position (the page lists models and prices in separate blocks). Verify before relying on it."
@@ -4335,7 +4335,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: OCI - Compute - GPU - MI300X. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -4355,7 +4355,7 @@
    "availability_note": "",
    "lead_time_class": "unknown",
    "source_url": "https://www.oracle.com/cloud/price-list/",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: OCI- Compute - GPU - MI355X. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
@@ -4375,7 +4375,7 @@
    "availability_note": "",
    "lead_time_class": "contact_sales",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "date_checked": "2026-11-04",
+   "date_checked": "2026-11-05",
    "fetch_method": "html_static",
    "confidence": "high",
    "notes": ""

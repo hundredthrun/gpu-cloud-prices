@@ -14,6 +14,10 @@ This repo is the open data behind the [Hundredth Run compute desk](https://hundr
 | `data/models.csv` | Open model parameter counts used by the calculator, with sources |
 | `data/history/<date>.json` | Weekly snapshots of median price per GPU, for tracking changes |
 
+## Starter notebook
+
+[notebooks/gpu-cloud-prices-starter.ipynb](notebooks/gpu-cloud-prices-starter.ipynb) answers five buyer questions with pandas: cheapest on-demand price per GPU, provider spread, spot vs on-demand gap, daily median history, and provider price changes. It reads the files from the [Hugging Face mirror](https://huggingface.co/datasets/hundredthrun/gpu-cloud-prices), so it runs anywhere. [Open in Colab](https://colab.research.google.com/github/hundredthrun/gpu-cloud-prices/blob/main/notebooks/gpu-cloud-prices-starter.ipynb).
+
 ## Sources and method
 
 - Prices are read from each provider's public pricing page or official price API. Every row links to the page it came from (`source_url`) and records the date it was read (`date_checked`) and how (`fetch_method`: official API, static HTML, or read by hand).

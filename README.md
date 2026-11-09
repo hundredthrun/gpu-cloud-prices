@@ -14,7 +14,7 @@ This repo is the open data behind the [Hundredth Run compute desk](https://hundr
 | `data/gpu_prices.json` | The same rows plus `meta` (generated time, per-provider fetch status) |
 | `data/lead_times.csv` | Availability and lead-time notes as stated by providers |
 | `data/models.csv` | Open model parameter counts used by the calculator, with sources |
-| `data/history/<date>.json` | Weekly snapshots of median price per GPU, for tracking changes |
+| `data/history/<date>.json` | Daily snapshots (since 2026-11-04) of median price per GPU, for tracking changes |
 
 ## Starter notebook
 
@@ -29,12 +29,12 @@ This repo is the open data behind the [Hundredth Run compute desk](https://hundr
 
 ## How often it is updated
 
-Weekly. The refresh re-reads every source, saves a new history snapshot and pushes here. If a provider page cannot be read, its old rows are kept and marked stale in `meta.provider_status`.
+Daily. The refresh re-reads every source, saves a new dated history snapshot and pushes here. The Kaggle and Hugging Face mirrors are republished weekly. If a provider page cannot be read, its old rows are kept and marked stale in `meta.provider_status`.
 
 ## Limitations
 
 - These are public list prices, mostly on-demand. Negotiated, reserved, spot and committed-use prices are often much lower and are mostly not covered.
-- Prices change often. A row can be up to a week old, sometimes more if a page failed to load. Check `date_checked` and the source before you buy.
+- Prices change often. A row can be a day or more old if a page failed to load. Check `date_checked` and the source before you buy.
 - Availability is not guaranteed by a listed price.
 - Unknown stays blank. Missing data does not mean free or unavailable.
 

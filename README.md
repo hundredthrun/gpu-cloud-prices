@@ -1,5 +1,7 @@
 # GPU cloud prices
 
+![GPU cloud price range by GPU across 25 providers](assets/cover.png)
+
 Public on-demand and listed GPU rental prices from 25 cloud providers (H100, H200, B200, B300, GB200, GB300, A100, L40S, MI300X, MI355X), with a source URL and check date on every row. Normalized to USD per GPU-hour.
 
 This repo is the open data behind the [Hundredth Run compute desk](https://hundredthrun-compute-desk.pages.dev). Live tables, provider pages and a [GPU memory and cost calculator](https://hundredthrun-compute-desk.pages.dev/calculator) are on the site. A JSON API is at [/api/v1/prices.json](https://hundredthrun-compute-desk.pages.dev/api/v1/prices.json).

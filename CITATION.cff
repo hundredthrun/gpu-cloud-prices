@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "GPU Cloud Rental Prices (daily snapshots)"
+authors:
+  - name: "Hundredth Run"
+    website: "https://hundredthrun-compute-desk.pages.dev"
+abstract: "Daily snapshots of on-demand and spot GPU rental prices (H100, H200, B200, A100, L40S, MI300X and more) across 25+ cloud providers, normalized to USD per GPU-hour."
+license: CC-BY-4.0
+repository-code: "https://github.com/hundredthrun/gpu-cloud-prices"
+url: "https://hundredthrun-compute-desk.pages.dev/open-data"
+keywords:
+  - gpu
+  - cloud pricing
+  - h100
+  - machine learning infrastructure
+  - dataset

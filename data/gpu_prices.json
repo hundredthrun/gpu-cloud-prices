@@ -21,8 +21,8 @@
    "confidence",
    "notes"
   ],
-  "generated": "2026-11-10T09:18:04-08:00",
-  "rows": 211,
+  "generated": "2026-11-10T09:22:43-08:00",
+  "rows": 213,
   "provider_status": {
    "Lambda": {
     "status": "OK",
@@ -4341,6 +4341,26 @@
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: OCI - Compute - GPU - MI300X. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
   },
   {
+   "provider": "Daytona",
+   "gpu": "MI355X",
+   "variant": "288GB",
+   "gpus_per_unit": "1",
+   "price_usd_per_gpu_hr": "5.99",
+   "price_type": "on_demand",
+   "term": "",
+   "region": "",
+   "billing_unit": "per hour",
+   "price_as_listed": "$5.99/h GPU only, on-demand",
+   "derivation": "",
+   "availability_note": "",
+   "lead_time_class": "instant_self_serve",
+   "source_url": "https://www.daytona.io/pricing",
+   "date_checked": "2026-11-10",
+   "fetch_method": "manual",
+   "confidence": "high",
+   "notes": "GPU rate only; Daytona bills the minimum 1 vCPU, 1 GiB RAM and 1 GiB disk separately. Read by hand from the public pricing page. Recheck on each weekly pass."
+  },
+  {
    "provider": "Oracle Cloud (OCI)",
    "gpu": "MI355X",
    "variant": "",
@@ -4359,6 +4379,26 @@
    "fetch_method": "official_api",
    "confidence": "high",
    "notes": "Oracle Cloud Price List API, lastUpdated 2026-11-02T14:49:49.342Z. Part: OCI- Compute - GPU - MI355X. GPU memory size is not stated in the price list. Capacity must be requested; not shown by the price list."
+  },
+  {
+   "provider": "Daytona",
+   "gpu": "MI355X",
+   "variant": "288GB",
+   "gpus_per_unit": "1",
+   "price_usd_per_gpu_hr": "3.44",
+   "price_type": "spot",
+   "term": "",
+   "region": "",
+   "billing_unit": "per hour",
+   "price_as_listed": "$3.44/h GPU only, interruptible",
+   "derivation": "",
+   "availability_note": "",
+   "lead_time_class": "instant_self_serve",
+   "source_url": "https://www.daytona.io/pricing",
+   "date_checked": "2026-11-10",
+   "fetch_method": "manual",
+   "confidence": "high",
+   "notes": "GPU rate only, interruptible. Same page as the on-demand row."
   },
   {
    "provider": "Crusoe",

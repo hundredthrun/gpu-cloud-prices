@@ -65,11 +65,11 @@
    "providers": 2
   },
   "MI355X": {
-   "min": 8.6,
-   "median": 8.6,
+   "min": 5.99,
+   "median": 7.295,
    "max": 8.6,
-   "n": 1,
-   "providers": 1
+   "n": 2,
+   "providers": 2
   }
  }
 }

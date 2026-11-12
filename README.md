@@ -6,7 +6,7 @@ Public on-demand and listed GPU rental prices from 25 cloud providers (H100, H20
 
 This repo is the open data behind the [Hundredth Run compute desk](https://hundredthrun-compute-desk.pages.dev). Live tables, provider pages and a [GPU memory and cost calculator](https://hundredthrun-compute-desk.pages.dev/calculator) are on the site. A JSON API is at [/api/v1/prices.json](https://hundredthrun-compute-desk.pages.dev/api/v1/prices.json).
 
-Also on [Hugging Face](https://huggingface.co/datasets/hundredthrun/gpu-cloud-prices) and [Kaggle](https://www.kaggle.com/datasets/hundredthrun/gpu-cloud-rental-prices), with a quick [cheapest-price browser](https://huggingface.co/spaces/hundredthrun/gpu-cloud-prices) as a Hugging Face Space. To call the JSON API without writing code, fork the public [Postman collection](https://www.postman.com/hundredthrun/hundredth-run-gpu-prices/overview). To query it with SQL in the browser, open the versioned [DoltHub database](https://www.dolthub.com/repositories/hundredthrun/gpu-cloud-prices).
+Also on [Hugging Face](https://huggingface.co/datasets/hundredthrun/gpu-cloud-prices) and [Kaggle](https://www.kaggle.com/datasets/hundredthrun/gpu-cloud-rental-prices), with a quick [cheapest-price browser](https://huggingface.co/spaces/hundredthrun/gpu-cloud-prices) as a Hugging Face Space. To call the JSON API without writing code, fork the public [Postman collection](https://www.postman.com/hundredthrun/hundredth-run-gpu-prices/overview). To query it with SQL in the browser, open the versioned [DoltHub database](https://www.dolthub.com/repositories/hundredthrun/gpu-cloud-prices). To chart the live API in a notebook, fork the [Observable notebook](https://observablehq.com/@hundredthrun/gpu-cloud-rental-prices-live).
 
 ## Files
 

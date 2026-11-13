@@ -8,6 +8,16 @@ This repo is the open data behind the [Hundredth Run compute desk](https://hundr
 
 Also on [Hugging Face](https://huggingface.co/datasets/hundredthrun/gpu-cloud-prices) and [Kaggle](https://www.kaggle.com/datasets/hundredthrun/gpu-cloud-rental-prices), with a quick [cheapest-price browser](https://huggingface.co/spaces/hundredthrun/gpu-cloud-prices) as a Hugging Face Space. To call the JSON API without writing code, fork the public [Postman collection](https://www.postman.com/hundredthrun/hundredth-run-gpu-prices/overview). To query it with SQL in the browser, open the versioned [DoltHub database](https://www.dolthub.com/repositories/hundredthrun/gpu-cloud-prices). To chart the live API in a notebook, fork the [Observable notebook](https://observablehq.com/@hundredthrun/gpu-cloud-rental-prices-live). To try the endpoints in a browser API console, use the free [RapidAPI Hub listing](https://rapidapi.com/HundredthRun/api/hundredth-run-gpu-prices).
 
+## Use it from an AI agent (MCP)
+
+A free remote MCP server answers live price questions in Claude, Cursor or any MCP client. No key.
+
+```json
+{"mcpServers": {"gpu-prices": {"type": "http", "url": "https://hundredthrun-compute-desk.pages.dev/mcp"}}}
+```
+
+Tools: `list_gpus`, `cheapest_gpu` (for example H100), and `get_prices` (filter by GPU, provider, on_demand, spot or reserved). Every answer carries the source URL and date checked. Docs: https://hundredthrun-compute-desk.pages.dev/open-data
+
 ## Files
 
 | File | What it is |

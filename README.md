@@ -18,6 +18,8 @@ A free remote MCP server answers live price questions in Claude, Cursor or any M
 
 Tools: `list_gpus`, `cheapest_gpu` (for example H100), and `get_prices` (filter by GPU, provider, on_demand, spot or reserved). Every answer carries the source URL and date checked. Docs: https://hundredthrun-compute-desk.pages.dev/open-data
 
+Listed on Glama: https://glama.ai/mcp/connectors/dev.pages.hundredthrun-compute-desk/hundredth-run-gpu-cloud-prices
+
 ## Files
 
 | File | What it is |

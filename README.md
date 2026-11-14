@@ -18,6 +18,25 @@ A free remote MCP server answers live price questions in Claude, Cursor or any M
 
 Tools: `list_gpus`, `cheapest_gpu` (for example H100), and `get_prices` (filter by GPU, provider, on_demand, spot or reserved). Every answer carries the source URL and date checked. Docs: https://hundredthrun-compute-desk.pages.dev/open-data
 
+### Cline
+
+Remote server, nothing to install or clone, no API key. Add this to `cline_mcp_settings.json` (Cline > MCP Servers > Configure):
+
+```json
+{
+  "mcpServers": {
+    "gpu-cloud-prices": {
+      "type": "streamableHttp",
+      "url": "https://hundredthrun-compute-desk.pages.dev/mcp",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
+```
+
+Then ask something like "what is the cheapest H100 on demand right now?". All three tools are read-only.
+
 Listed on the official MCP Registry as `io.github.hundredthrun/gpu-cloud-prices`: https://registry.modelcontextprotocol.io/v0/servers?search=io.github.hundredthrun/gpu-cloud-prices
 
 Listed on Glama: https://glama.ai/mcp/connectors/dev.pages.hundredthrun-compute-desk/hundredth-run-gpu-cloud-prices

@@ -43,6 +43,8 @@ Listed on Glama: https://glama.ai/mcp/connectors/dev.pages.hundredthrun-compute-
 
 Listed on Cursor Directory (one-click install in Cursor): https://cursor.directory/plugins/gpu-cloud-prices-hundredth-run
 
+Listed on mcp.tc: https://mcp.tc/i/hundredth-run-gpu-cloud-prices
+
 ## Files
 
 | File | What it is |

@@ -45,6 +45,8 @@ Listed on Cursor Directory (one-click install in Cursor): https://cursor.directo
 
 Listed on mcp.tc: https://mcp.tc/i/hundredth-run-gpu-cloud-prices
 
+API listed on Free Public APIs (endpoint health checked): https://www.freepublicapis.com/gpu-price-api
+
 ## Files
 
 | File | What it is |

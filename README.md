@@ -21,6 +21,7 @@ Tools: `list_gpus`, `cheapest_gpu` (for example H100), and `get_prices` (filter 
 Listed on the official MCP Registry as `io.github.hundredthrun/gpu-cloud-prices`: https://registry.modelcontextprotocol.io/v0/servers?search=io.github.hundredthrun/gpu-cloud-prices
 
 Listed on Glama: https://glama.ai/mcp/connectors/dev.pages.hundredthrun-compute-desk/hundredth-run-gpu-cloud-prices
+Listed on Cursor Directory (one-click install in Cursor): https://cursor.directory/plugins/gpu-cloud-prices-hundredth-run
 
 ## Files
 

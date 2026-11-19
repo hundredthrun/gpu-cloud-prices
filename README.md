@@ -49,6 +49,8 @@ Listed on mcpservers.org: https://mcpservers.org/servers/hundredthrun/gpu-cloud-
 
 Listed on MCP Collection: https://mcpcollection.com/server/hundredth-run-gpu-cloud-prices
 
+Listed in awesome-mcp-list (Cloud Platforms): https://github.com/MobinX/awesome-mcp-list
+
 API listed on Free Public APIs (endpoint health checked): https://www.freepublicapis.com/gpu-price-api
 
 ## Files

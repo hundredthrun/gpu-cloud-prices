@@ -52,6 +52,7 @@ Listed on MCP Collection: https://mcpcollection.com/server/hundredth-run-gpu-clo
 Listed in awesome-mcp-list (Cloud Platforms): https://github.com/MobinX/awesome-mcp-list
 
 API listed on Free Public APIs (endpoint health checked): https://www.freepublicapis.com/gpu-price-api
+API profile on APIs.io (built from our APIs.json and OpenAPI): https://apis.io/providers/hundredthrun/
 
 ## Files
 
